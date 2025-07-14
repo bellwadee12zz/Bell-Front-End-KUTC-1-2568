@@ -1,0 +1,18 @@
+.heading:hover{
+    color: red;
+    font-size: 60px;
+}
+
+.heading:active{
+    background-color: black;
+}
+
+#input:focus{
+    background-color: black;
+    color: aliceblue; 
+}
+
+.list li:nth-child(even){
+    background-color: red;
+    color: white;
+}
